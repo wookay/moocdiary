@@ -17,3 +17,20 @@
    - decision boundaries
    - decision stump
    - decision trees
+
+
+* 2016-08-14
+ - Session 3: Regression
+   - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
+   - linear regression : lucky optimization
+   - parabola
+   - polynomial regression
+   - a single neuron
+   - a Sigmoid (S shaped) neuron
+   - perceptron
+   - hidden layers
+   - least squares regression
+   - optimaztion
+   - least-squares objective function
+   - gradient descent
+   - backpropagation
