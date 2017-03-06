@@ -10,8 +10,13 @@
   - gaussian kernel
   - gabor kernel
 
+### Session 2: Training A Network W/ TensorFlow
+  * 2017-02-23
 
-Session 2: Training A Network W/ TensorFlow
-Session 3: Unsupervised And Supervised Learning
-Session 4: Visualizing And Hallucinating Representations
+### Session 3: Unsupervised And Supervised Learning
+  * 2017-02-23
+
+### Session 4: Visualizing And Hallucinating Representations
+  * 2017-03-02
+
 Session 5: Generative Models

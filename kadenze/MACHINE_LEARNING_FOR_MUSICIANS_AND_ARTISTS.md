@@ -28,7 +28,7 @@
   - perceptron
   - hidden layers
   - least squares regression
-  - optimaztion
+  - optimization
   - least-squares objective function
   - gradient descent
   - backpropagation
@@ -75,8 +75,14 @@
   - Fiducials
   - Haar cascades
 
+### Session 6: Working with time
+  * 2017-03-02
+  - 1, 2, 3, 4, 5
 
+  * 2017-03-06
+  - 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
+  - HMMs
 
-Session 6: Working with time
-
-Session 7: Developing a practice with machine learning; Wrap-up
+### Session 7: Developing a practice with machine learning; Wrap-up
+  * 2017-03-06
+  - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
