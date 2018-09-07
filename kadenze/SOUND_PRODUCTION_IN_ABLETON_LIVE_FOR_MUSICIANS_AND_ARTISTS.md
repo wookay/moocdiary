@@ -32,3 +32,13 @@
       - Inv
       - Legato
       - Dupl Loop
+
+
+### Session 2: The Nature of Sound
+  * 2018-09-07
+  - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+
+
+### Session 3: Levels and Panning
+  * 2018-09-07
+  - 1, 2
