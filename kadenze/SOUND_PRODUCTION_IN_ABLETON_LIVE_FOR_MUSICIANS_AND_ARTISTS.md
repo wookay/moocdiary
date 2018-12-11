@@ -40,5 +40,18 @@
 
 
 ### Session 3: Levels and Panning
-  * 2018-09-07
+  * 2018-09-07, 2018-12-12
   - 1, 2
+
+  * 2018-09-09, 2018-12-12
+  - 3, 4, 5, 6, 7, 8
+
+  - Envelopes
+    - Duplicate Envelope
+    - Utiltiy - Gain
+
+  - Pink Noise
+
+
+### Session 4: Sculpting Frequencies: Equalization
+  * 2018-12-12
