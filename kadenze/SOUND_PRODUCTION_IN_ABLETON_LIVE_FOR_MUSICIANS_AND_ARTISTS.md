@@ -55,3 +55,30 @@
 
 ### Session 4: Sculpting Frequencies: Equalization
   * 2018-12-12
+  - 1, 2, 3, 4, 5
+  - EQ Three
+    - Gain Low, Gain Mind, Gain Hi
+    - Freq Low, Freq Hi
+  - EQ Eight
+  - Key Mappings
+
+  * 2018-12-14
+  - 6, 7, 8, 9
+  - Envelope Follwer
+    - 50 - 0
+    - Map - Gain Parameter
+
+
+### Session 5: Reverb and Space
+  * 2018-12-14
+  - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+
+
+### Session 6: Compression and Dynamics
+  * 2018-12-14
+  - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+
+
+### Session 7: Slicing and Dicing: Sampling in Live
+  * 2018-12-14
+  - 1, 2, 3, 4, 5
